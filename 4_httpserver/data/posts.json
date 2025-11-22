@@ -1,0 +1,58 @@
+[
+    {
+        "id": "p001",
+        "userId": "u001",
+        "title": "Yeni Proje Duyurusu",
+        "content": "Takımımız React Native tabanlı yeni uygulamanın geliştirme sürecine başladı.",
+        "createdAt": "2025-02-01T10:20:00Z"
+    },
+    {
+        "id": "p002",
+        "userId": "u003",
+        "title": "Performans İyileştirmeleri",
+        "content": "API uç noktalarında yapılan optimizasyonlarla %30 hız artışı sağlandı.",
+        "createdAt": "2025-02-02T14:45:00Z"
+    },
+    {
+        "id": "p003",
+        "userId": "u005",
+        "title": "UI/UX Güncellemesi",
+        "content": "Kullanıcı deneyimini güçlendirmek için yeni komponent seti yayına alındı.",
+        "createdAt": "2025-02-03T17:00:00Z"
+    },
+    {
+        "id": "p004",
+        "userId": "u002",
+        "title": "Güvenlik Yaması",
+        "content": "Kimlik doğrulama servisinde kritik yamalar başarıyla uygulandı.",
+        "createdAt": "2025-02-04T09:30:00Z"
+    },
+    {
+        "id": "p005",
+        "userId": "u008",
+        "title": "AI Model Geliştirmesi",
+        "content": "Yeni NLP modelinde doğruluk oranı %87 seviyesine yükseltildi.",
+        "createdAt": "2025-02-05T13:10:00Z"
+    },
+    {
+        "id": "p006",
+        "userId": "u004",
+        "title": "Mobil Sürüm Yayını",
+        "content": "Uygulamanın 1.4.0 sürümü App Store ve Google Play’de yayınlandı.",
+        "createdAt": "2025-02-06T18:25:00Z"
+    },
+    {
+        "id": "p007",
+        "userId": "u006",
+        "title": "Backend Refactoring",
+        "content": "Monolit yapı microservices mimarisine taşınmaya başlandı.",
+        "createdAt": "2025-02-07T11:55:00Z"
+    },
+    {
+        "id": "p008",
+        "userId": "u007",
+        "title": "Yeni Staj Programı",
+        "content": "Fullstack geliştirme için 12 haftalık bootcamp başvuruları açıldı.",
+        "createdAt": "2025-02-08T15:40:00Z"
+    }
+]

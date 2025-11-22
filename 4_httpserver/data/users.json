@@ -1,0 +1,72 @@
+[
+    {
+        "id": "u001",
+        "username": "caner_js",
+        "email": "caner_js@example.com",
+        "role": "admin",
+        "createdAt": "2025-01-10T12:30:00Z"
+    },
+    {
+        "id": "u002",
+        "username": "eliftech",
+        "email": "elif.tech@example.com",
+        "role": "editor",
+        "createdAt": "2025-01-12T09:15:00Z"
+    },
+    {
+        "id": "u003",
+        "username": "mertcode",
+        "email": "mert.code@example.com",
+        "role": "user",
+        "createdAt": "2025-01-14T18:40:00Z"
+    },
+    {
+        "id": "u004",
+        "username": "ayse_dev",
+        "email": "ayse.dev@example.com",
+        "role": "editor",
+        "createdAt": "2025-01-17T14:22:00Z"
+    },
+    {
+        "id": "u005",
+        "username": "ahmeterkal",
+        "email": "ahmeterkal@example.com",
+        "role": "user",
+        "createdAt": "2025-01-18T16:05:00Z"
+    },
+    {
+        "id": "u006",
+        "username": "anelakaraoglan",
+        "email": "anela.k@example.com",
+        "role": "admin",
+        "createdAt": "2025-01-20T10:50:00Z"
+    },
+    {
+        "id": "u007",
+        "username": "frknecn3",
+        "email": "frknecn3@example.com",
+        "role": "moderator",
+        "createdAt": "2025-01-22T08:45:00Z"
+    },
+    {
+        "id": "u008",
+        "username": "zeynep_ai",
+        "email": "zeynep.ai@example.com",
+        "role": "user",
+        "createdAt": "2025-01-23T21:10:00Z"
+    },
+    {
+        "id": "u009",
+        "username": "devramazan",
+        "email": "ramazan.dev@example.com",
+        "role": "editor",
+        "createdAt": "2025-01-25T11:33:00Z"
+    },
+    {
+        "id": "u010",
+        "username": "alperencode",
+        "email": "alperen.code@example.com",
+        "role": "user",
+        "createdAt": "2025-01-27T19:57:00Z"
+    }
+]

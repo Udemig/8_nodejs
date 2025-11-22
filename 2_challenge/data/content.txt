@@ -1,0 +1,1 @@
+Bu challenge iki farklı dosyanın içeriğini okuyup, birisini başlık olarak kullanır diğerini ise dosya içeriği yaparak yeni bir dosya oluşturur.
