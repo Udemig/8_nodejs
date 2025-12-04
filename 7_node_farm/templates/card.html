@@ -1,0 +1,36 @@
+<figure class="card">
+    <div class="card-emoji">
+        {%IMAGE%}
+    </div>
+
+    <div class="card-title-container">
+        <h2 class="card-title">
+            {%PRODUCTNAME%}
+        </h2>
+    </div>
+
+    <div class="card-details">
+        <div class="card-detail-box {%ORGANIC%}">
+            <h6 class="card-detail card-detail-organic">Organic!</h6>
+        </div>
+
+        <div class="card-detail-box">
+            <h6 class="card-detail quantity">
+                {%QUANTITY%}
+            </h6>
+        </div>
+
+        <div class="card-detail-box">
+            <h6 class="card-detail price">
+                {%PRICE%}
+            </h6>
+        </div>
+    </div>
+
+    <!-- /product'tan sonra ?id olarak girdiğimiz değere parametre denir. -->
+    <!-- Parametre sayfalar arası iletişim yöntemidir. -->
+    <!-- ^ /overview sayfasındaki linklere id parametresi koyarak bir sonraki sayfa olan /product'a kullanıcının hangi ürüne tıkladığını yani hangi ürünün detaylarının gösterilmesi gerektiğini aktarabiliriz. -->
+    <a href="/product?id={%ID%}" class="card-link">
+        <span>👉 For Details</span>
+    </a>
+</figure>
